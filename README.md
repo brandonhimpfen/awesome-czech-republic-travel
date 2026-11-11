@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in the Czech Republic (Czechia), covering official portals, transport, region guides, national parks, and remote work resources.
 
+The Czech Republic is a historic Central European destination featuring Gothic and Baroque architecture, medieval castles, spa towns, and world-renowned brewing traditions. This list is intended for cultural travelers, history enthusiasts, architectural explorers, and castle-tour visitors.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
